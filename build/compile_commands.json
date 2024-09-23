@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/zjh/Desktop/vs code/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\zjh\\Desktop\\vs code\\main.cpp\"",
+  "file": "C:\\Users\\zjh\\Desktop\\vs code\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
